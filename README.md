@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bxyang95
 - 👀 I’m interested in data analytics and working with data.
 - 🌱 I’m currently learning tableau and have been practicing my SQL.
-- 💞️ I’m looking to collaborate on data cleaning, analyzing and creating databases with my newly learned skills.
+- 💞️ I’m looking to collaborate on data cleaning, analyzing and creating databases with my skills.
 - 📫 How to reach me bxyang95@gmail.com
 
 <!---
